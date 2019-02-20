@@ -10,9 +10,9 @@ package com.cifpcarballeira.katas.FizzBuzz;
  * @author daw111
  */
 public class FizzBuzz {
-
+    
     public String getFizzBuzz(int num) {
-        return "1";
+        if (num==1) return "1";
     }
     
 }
